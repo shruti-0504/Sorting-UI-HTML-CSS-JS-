@@ -1,9 +1,9 @@
 # Sorting-UI-HTML-CSS-JS-
-Description
+## Description
 
 The Sorting Visualizer is a web-based application that demonstrates various sorting algorithms through visual animations. It allows users to generate a random array and visualize how different sorting techniques arrange the elements.
 
-Features
+## Features
 
 Dark Mode: Toggle between dark and light themes.
 
@@ -25,7 +25,7 @@ Visual Representation: Each sorting step is visually represented with dynamicall
 
 Generate New Array: Users can generate a new set of random numbers for sorting.
 
-Technologies Used
+## Technologies Used
 
 HTML: Structuring the webpage
 
@@ -33,7 +33,7 @@ CSS: Styling the user interface
 
 JavaScript: Implementing sorting logic and animations
 
-How to Use
+## How to Use
 
 Open the application in a web browser.
 
